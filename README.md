@@ -33,7 +33,7 @@ Each row in the CSV becomes a database record, with support for **nested fields*
 csv_importer/
 │
 ├── main.py                 
-├── .env                    
+├── .env                    #the file format is given in point 4.PS:Never share your .env file 
 ├── requirements.txt       
 ├── example/
 │   └── data/
